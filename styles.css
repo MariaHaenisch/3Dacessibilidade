@@ -13,7 +13,9 @@ body {
 header {
     background-color: #ffffff;
 }
-
+.nav-img{
+    width: 15vw;
+}
 
 section {
     padding-bottom: 5rem;
